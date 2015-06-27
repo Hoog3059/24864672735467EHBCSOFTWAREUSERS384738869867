@@ -3,6 +3,6 @@ state:
 state-max:
 10
 state-discription:
-downloading
+downloading\ntest
 username:
 timo hoogenbosch
